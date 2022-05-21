@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068703665294",
+    "project_id": "mitchkoko-firebase-app-demo",
+    "storage_bucket": "mitchkoko-firebase-app-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068703665294:android:c9f775ef8cd7e95b928ddf",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068703665294-liv8ja2jpbj5cj4ehotafore0m5p93fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo1B_jxhBTRBEHqyWdgaOYlVliLDhS6MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068703665294-liv8ja2jpbj5cj4ehotafore0m5p93fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
